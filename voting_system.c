@@ -1,5 +1,5 @@
 #Command to run gcc voting_system.c -o voting -lcsfml-graphics -lcsfml-window -lcsfml-system -lpthread -lm -lrt
-./voting
+#./voting
     
 
 
