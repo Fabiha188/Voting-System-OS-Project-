@@ -1,3 +1,7 @@
+#Command to run gcc voting_system.c -o voting -lcsfml-graphics -lcsfml-window -lcsfml-system -lpthread -lm -lrt
+./voting
+    
+
 
 #include <stdio.h>
 #include <stdlib.h>
