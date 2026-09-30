@@ -390,3 +390,5 @@ Instructor: **Ubaid Ullah Sir** | Section B | CS-4J | Spring 2025
 ---
 
 *Built with POSIX, pthreads, and a lot of semaphores.*
+
+**Keywords:** Operating Systems, POSIX, pthreads, semaphores, shared memory, Readers-Writers problem, concurrency, synchronization, multithreading, multiprocessing, named pipe, IPC, SFML, C, C++, voting system, election simulator, systems programming, Linux.
